@@ -1,2 +1,4 @@
-com\dailycodebuffer\JaCoCoDemoApplicationTests.class
-com\dailycodebuffer\TestMessages.class
+com\codeCoverage\TestSummation.class
+com\codeCoverage\JaCoCoDemoApplicationTests.class
+com\codeCoverage\TestMessages.class
+com\codeCoverage\TestSummationExtend.class

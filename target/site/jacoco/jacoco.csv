@@ -1,3 +1,5 @@
 GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-JaCoCo-Demo,com.dailycodebuffer,JaCoCoDemoApplication,5,3,0,0,2,1,1,1,1,1
-JaCoCo-Demo,com.dailycodebuffer,Messages,0,26,0,4,0,6,0,4,0,2
+JaCoCo-Demo,com.codeCoverage,Summation,0,19,0,2,0,6,0,3,0,2
+JaCoCo-Demo,com.codeCoverage,SummationExtend,6,16,3,1,2,5,2,2,0,2
+JaCoCo-Demo,com.codeCoverage,JaCoCoDemoApplication,5,3,0,0,2,1,1,1,1,1
+JaCoCo-Demo,com.codeCoverage,Messages,0,26,0,4,0,6,0,4,0,2
